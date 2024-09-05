@@ -209,8 +209,6 @@ sudo systemctl start <container_name>.service
 ## Learn More
 
 - **Official Podman Documentation**: [Podman.io](https://podman.io/)
-- **Podman vs Docker Comparison**: [Podman vs Docker](https://podman.io/whatis.html)
-- **Podman Rootless Mode**: [Rootless Containers](https://podman.io/rootless/)
 
 ---
 

@@ -1,7 +1,3 @@
-Here's a **Podman crash course** that would be perfect for a GitHub README or a quick guide. This course will cover the basic usage of Podman, how it differs from Docker, and provide essential commands and examples.
-
----
-
 # Podman Crash Course 🚀
 
 Podman is a daemonless, rootless container engine that allows you to manage containers and pods without requiring root privileges. It's compatible with Docker, making the transition from Docker to Podman seamless for most users.
@@ -219,7 +215,3 @@ sudo systemctl start <container_name>.service
 ---
 
 This is your quick start guide to using Podman! If you’re familiar with Docker, you should find Podman easy to work with. Happy containerizing! 🎉
-
----
-
-This crash course should help GitHub users get started with Podman quickly and efficiently.
